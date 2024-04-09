@@ -14,7 +14,7 @@ class Blockchain:
         self.chain = []
         self.nodes = set()
         self.coin_name = "Quotes Coin"
-        self.coin_symbol = "QTC"
+        self.coin_symbol = "QTS"
         self.total_coins = 80000000000000  # Total supply of Quotes Coin
         self.stake_reward = 5  # Reward for staking a block
         self.stake_threshold = 100  # Minimum amount of Quotes Coin required for staking
